@@ -4,7 +4,7 @@ A small Python application to place orders on Binance Futures Testnet (USDT-M) w
 
 ## Setup
 
-1. **Clone the repository** (or extract the zip).
+1. **Clone the repository** 
 2. **Install dependencies**:
    ```bash
    pip install -r requirements.txt
@@ -37,3 +37,4 @@ python cli.py --symbol BTCUSDT --side SELL --type LIMIT --quantity 0.01 --price 
 - Validates all user inputs before making API requests.
 - Catches Binance API errors and network failures.
 - Logs all requests, responses, and errors to `trading_bot.log`.
+

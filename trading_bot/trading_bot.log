@@ -1,0 +1,33 @@
+2026-02-13 01:01:22,457 - trading_bot - ERROR - API Key or Secret missing in .env file
+2026-02-13 01:01:22,458 - trading_bot - ERROR - Input validation failed: API Key and Secret must be provided in .env
+2026-02-13 01:02:26,778 - trading_bot - ERROR - API Key or Secret missing in .env file
+2026-02-13 01:02:26,778 - trading_bot - ERROR - Input validation failed: API Key and Secret must be provided in .env
+2026-02-13 01:02:49,740 - trading_bot - ERROR - API Key or Secret missing in .env file
+2026-02-13 01:02:49,741 - trading_bot - ERROR - Input validation failed: API Key and Secret must be provided in .env
+2026-02-13 01:03:50,156 - trading_bot - INFO - Binance Futures Testnet Client initialized
+2026-02-13 01:03:50,157 - trading_bot - INFO - Placing MARKET BUY order for 0.001 BTCUSDT
+2026-02-13 01:03:50,968 - trading_bot - ERROR - Binance API Error: Order's notional must be no smaller than 100 (unless you choose reduce only). (Code: -4164)
+2026-02-13 01:04:24,744 - trading_bot - INFO - Binance Futures Testnet Client initialized
+2026-02-13 01:04:24,745 - trading_bot - INFO - Placing MARKET BUY order for 0.01 BTCUSDT
+2026-02-13 01:04:25,658 - trading_bot - INFO - Order placed successfully. Response: {'orderId': 12222051747, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ13d6494e45da048d96adeb', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.010', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1770924866063}
+2026-02-13 01:04:55,594 - trading_bot - INFO - Binance Futures Testnet Client initialized
+2026-02-13 01:04:55,595 - trading_bot - INFO - Placing MARKET BUY order for 0.01 BTCUSDT
+2026-02-13 01:04:56,874 - trading_bot - INFO - Order placed successfully. Response: {'orderId': 12222064768, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ12528e0ad2777d0e816ecc', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.010', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1770924897290}
+2026-02-13 01:05:25,519 - trading_bot - INFO - Binance Futures Testnet Client initialized
+2026-02-13 01:05:25,520 - trading_bot - INFO - Placing LIMIT SELL order for 0.001 BTCUSDT
+2026-02-13 01:05:26,237 - trading_bot - ERROR - Binance API Error: Limit price can't be lower than 62532.14. (Code: -4024)
+2026-02-13 01:06:19,509 - trading_bot - INFO - Binance Futures Testnet Client initialized
+2026-02-13 01:06:19,510 - trading_bot - INFO - Placing LIMIT SELL order for 0.001 BTCUSDT
+2026-02-13 01:06:20,263 - trading_bot - ERROR - Binance API Error: Order's notional must be no smaller than 100 (unless you choose reduce only). (Code: -4164)
+2026-02-13 01:06:58,400 - trading_bot - INFO - Binance Futures Testnet Client initialized
+2026-02-13 01:06:58,401 - trading_bot - INFO - Placing LIMIT SELL order for 0.01 BTCUSDT
+2026-02-13 01:06:59,179 - trading_bot - INFO - Order placed successfully. Response: {'orderId': 12222106646, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ7945e8fc329e38c00d7914', 'price': '70000.00', 'avgPrice': '0.00', 'origQty': '0.010', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1770925019603}
+2026-02-13 13:24:40,159 - trading_bot - INFO - Binance Futures Testnet Client initialized
+2026-02-13 13:24:40,160 - trading_bot - INFO - Placing MARKET BUY order for 0.01 BTCUSDT
+2026-02-13 13:24:40,917 - trading_bot - INFO - Order placed successfully. Response: {'orderId': 12237212576, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJd3c40628ed05c48c42ec1d', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.010', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1770969281287}
+2026-02-13 13:26:46,983 - trading_bot - INFO - Binance Futures Testnet Client initialized
+2026-02-13 13:26:46,983 - trading_bot - INFO - Placing LIMIT SELL order for 0.01 BTCUSDT
+2026-02-13 13:26:47,663 - trading_bot - ERROR - Binance API Error: Limit price can't be lower than 62953.56. (Code: -4024)
+2026-02-13 13:27:01,803 - trading_bot - INFO - Binance Futures Testnet Client initialized
+2026-02-13 13:27:01,804 - trading_bot - INFO - Placing LIMIT SELL order for 0.01 BTCUSDT
+2026-02-13 13:27:02,777 - trading_bot - INFO - Order placed successfully. Response: {'orderId': 12237261040, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ1384412634ed9ec764c0f8', 'price': '70000.00', 'avgPrice': '0.00', 'origQty': '0.010', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1770969423187}
